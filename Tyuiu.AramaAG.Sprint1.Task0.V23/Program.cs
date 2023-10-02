@@ -11,7 +11,7 @@ namespace Tyuiu.AramaAG.Sprint1.Task0.V23
     {
         static void Main(string[] args)
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             Console.Title = "Спринт #1 | Выполнил: Арама А.Г. | СМАРТб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");

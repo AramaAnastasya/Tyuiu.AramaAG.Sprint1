@@ -12,7 +12,7 @@ namespace Tyuiu.AramaAG.Sprint1.Task0.V23.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(13, res);
+            Assert.AreEqual(13, res); 
         }
     }
 }
